@@ -30,8 +30,8 @@ No tempo livre, gosto de assistir filmes e jogar. Sinta-se à vontade para me co
 ##
 <div>
   <a href="https://github.com/zxGabriel">
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxGabriel&layout=compact&langs_count=7&theme=great-gatsby"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=zxGabriel&show_icons=true&theme=great-gatsby" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxGabriel&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxGabriel&show_icons=true&theme=great-gatsby" />
 </div>
 
 ##
